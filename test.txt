@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 te
 :
 
+=======
+hello world
+test
+>>>>>>> refs/remotes/origin/main
