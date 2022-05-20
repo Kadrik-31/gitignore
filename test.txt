@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world
 test
+=======
+hello me
+>>>>>>> 234e3db (Update test.txt)
